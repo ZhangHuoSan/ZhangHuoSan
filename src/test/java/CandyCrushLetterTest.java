@@ -1,4 +1,4 @@
-import com.springcloud.order.CandyCrushLetter;
+import com.codetest.CandyCrushLetter;
 import org.junit.Test;
 
 /**

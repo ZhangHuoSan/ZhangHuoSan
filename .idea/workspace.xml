@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9fbf2719-d3e3-4f2d-9b85-bfc8f69e9a0f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springcloud/order/CandyCrushLetter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CandyCrushLetterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/springcloud/order/CandyCrushLetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codetest/CandyCrushLetter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CandyCrushLetterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CandyCrushLetterTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +110,7 @@
       <workItem from="1718936894429" duration="16000" />
       <workItem from="1718936981013" duration="1983000" />
       <workItem from="1719017177983" duration="109000" />
-      <workItem from="1719017302784" duration="3348000" />
+      <workItem from="1719017302784" duration="4264000" />
     </task>
     <servers />
   </component>
@@ -122,7 +121,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/springcloud/order/CandyCrushLetter.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/codetest/CandyCrushLetter.java</url>
           <line>20</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
